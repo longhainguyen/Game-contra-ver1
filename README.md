@@ -1,11 +1,11 @@
 # Game-contra-ver1
-1.Hướng dẫn cài đặt:
+1.Hướng dẫn cài đặt:          Link cài SDL2: https://drive.google.com/drive/folders/1WiRBNDPVlJo5_i2HkKZbYTty2MMeEC7B?usp=sharing
+
   - Các bạn fork vào tài khoản của mình.
   - Ấn vào chỗ code rồi copy link .
   - clone the forked với command : git clone 
   - Rồi paste đường link vừa copy vào rồi Enter.
   - Sau đó các bạn mở code block lên, ấn ctrl + o ,rồi chọn file vừa tải về để mở lên.
-
 
 2.Mô tả chung về trò chơi, các ý tưởng chính
   - Mô tả chung:
