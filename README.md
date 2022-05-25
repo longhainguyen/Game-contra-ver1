@@ -46,3 +46,5 @@
        + Cần học hỏi rất nhiều từ các game khác như Flappy Bird, Mario để có thể tổ chức code hợp lý, các kĩ thuật sử lý của game.
        + Nâng cao khả năng debug.
        + Cần học thêm các thuật toán.
+  - Điều tâm đắc nhất:
+       Sử lý đạn bắn tuân theo đúng thực tế.
