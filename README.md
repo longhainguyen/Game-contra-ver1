@@ -19,7 +19,7 @@
 
 3.Mô tả các chức năng đã cài đặt: link youtube: https://www.youtube.com/watch?v=j2QxxhPIy64
   - Sử dụng thư viện SDL2, SDL_image, SDL_mixer, sdl_ttf.
-  - Người chơi sử dụng các phím up, right, left để điều khiển người chơi và sử dụng chuột trái để bắn đạn.
+  - Người chơi sử dụng các phím up, right, left để điều khiển người chơi và sử dụng chuột trái để bắn đạn, ngoài ra còn có thể ấn phím 9 đến bật tắt nhạc,phím 0 tắt      hẳn nhạc.
   - Các kẻ địch bắn đạn gây sát thương cho nhân vật. Đặc biệt là những đám mây có thể di chuyển tìm và bắn chính xác vị trí ta đang đứng.
   - Người chơi ăn các item (như máu, tiền) để có thể tăng thêm mạng.
   - Sau khi tiêu diệt xong boss và ăn hết tiền chúng ta sẽ win. Ngược lại ta bị hết thời gian hoăc chết hết mạng chúng ta sẽ thua.
