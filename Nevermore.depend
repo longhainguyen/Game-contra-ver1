@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1653241273 source:e:\2022\testsdl\nevermore\unit..cpp
+	"unit.h"
+
+1653440464 source:e:\2022\testsdl\nevermore\main.cpp
+	"unit.h"
+	"LoadTexture.h"
+	"character.h"
+	"map.h"
+	"Enemy.h"
+	"LTime.h"
+	"VuNoObject.h"
+	"TextObject.h"
+
+1653438706 e:\2022\testsdl\nevermore\unit.h
+	<vector>
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	"TextObject.h"
+	"LoadTexture.h"
+
+1651586061 source:e:\2022\testsdl\nevermore\loadtexture.cpp
+	"LoadTexture.h"
+	<iostream>
+
+1652626327 e:\2022\testsdl\nevermore\loadtexture.h
+	"unit.h"
+
+1652718827 source:e:\2022\testsdl\nevermore\map.cpp
+	"map.h"
+	<fstream>
+
+1652973127 e:\2022\testsdl\nevermore\map.h
+	"unit.h"
+	"LoadTexture.h"
+
+1653145848 e:\2022\testsdl\nevermore\character.h
+	"unit.h"
+	"LoadTexture.h"
+	"Danban.h"
+
+1653438706 source:e:\2022\testsdl\nevermore\character.cpp
+	"character.h"
+
+1653411974 e:\2022\testsdl\nevermore\danban.h
+	"unit.h"
+	"LoadTexture.h"
+
+1653412312 source:e:\2022\testsdl\nevermore\danban.cpp
+	"Danban.h"
+
+1653438706 source:e:\2022\testsdl\nevermore\enemy.cpp
+	"Enemy.h"
+
+1653439681 e:\2022\testsdl\nevermore\enemy.h
+	"unit.h"
+	"LoadTexture.h"
+	"Danban.h"
+
+1652580499 source:e:\2022\testsdl\nevermore\ltime.cpp
+	"LTime.h"
+
+1652580499 e:\2022\testsdl\nevermore\ltime.h
+	"unit.h"
+
+1653103615 source:e:\2022\testsdl\nevermore\vunoobject.cpp
+	"VuNoObject.h"
+
+1653103719 e:\2022\testsdl\nevermore\vunoobject.h
+	"unit.h"
+	"LoadTexture.h"
+
+1653231371 source:e:\2022\testsdl\nevermore\textobject.cpp
+	"TextObject.h"
+
+1653231371 e:\2022\testsdl\nevermore\textobject.h
+	"unit.h"
+
+1653213628 source:e:\2022\testsdl\nevermore\musicobject.cpp
+	"MusicObject.h"
+
+1653212722 e:\2022\testsdl\nevermore\musicobject.h
+	"unit.h"
+	"LoadTexture.h"
+

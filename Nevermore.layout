@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4307" topLine="150" />
+		</Cursor>
+		<Folding>
+			<Collapse line="558" />
+			<Collapse line="566" />
+		</Folding>
+	</File>
+	<File name="unit..cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2512" topLine="114" />
+		</Cursor>
+	</File>
+	<File name="LoadTexture.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="68" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="map.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="172" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="character.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2395" topLine="84" />
+		</Cursor>
+	</File>
+	<File name="Danban.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3387" topLine="102" />
+		</Cursor>
+		<Folding>
+			<Collapse line="71" />
+			<Collapse line="86" />
+		</Folding>
+	</File>
+	<File name="Enemy.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="988" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="character.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12635" topLine="186" />
+		</Cursor>
+		<Folding>
+			<Collapse line="27" />
+			<Collapse line="31" />
+			<Collapse line="42" />
+			<Collapse line="89" />
+			<Collapse line="126" />
+			<Collapse line="218" />
+			<Collapse line="248" />
+			<Collapse line="288" />
+			<Collapse line="467" />
+			<Collapse line="489" />
+		</Folding>
+	</File>
+	<File name="LTime.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="933" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="TextObject.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="545" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="VuNoObject.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1244" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="LoadTexture.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="980" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="Enemy.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5144" topLine="78" />
+		</Cursor>
+		<Folding>
+			<Collapse line="22" />
+			<Collapse line="26" />
+			<Collapse line="38" />
+			<Collapse line="224" />
+		</Folding>
+	</File>
+	<File name="unit.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="962" topLine="34" />
+		</Cursor>
+	</File>
+	<File name="VuNoObject.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="359" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="LTime.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="54" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="TextObject.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1294" topLine="45" />
+		</Cursor>
+	</File>
+	<File name="map.cpp" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1902" topLine="39" />
+		</Cursor>
+	</File>
+	<File name="Danban.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1434" topLine="55" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
